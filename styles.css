@@ -1,15 +1,7 @@
-.googleimage{
-	margin-top: 100px;
-	margin-left: 25%;
-	margin-right: 25%;
+.webpage{
+	width: 500px;
+	height: 700px;
 }
-.searchbar{
-	margin-top: 100px;
-	margin-left: 45%;
-	margin-right: 45%;
-
-}
-input{
-height: 25px; width: 200px;
-border-style: inset;
+.logo{
+	margin-left: ;
 }
