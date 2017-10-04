@@ -1,7 +1,29 @@
-.webpage{
-	width: 500px;
-	height: 700px;
+#gmail{
+	margin-left: 39.3%;
+	margin-top: -3px;
 }
-.logo{
-	margin-left: ;
+#googlelogo{
+	width: 270px;
+	height: 91px;
+	margin-left: 41.9%;
+	margin-top: 8%;
+	margin-bottom: 1.5%;
+}
+#input{
+	margin-left: 33%;
+	margin-bottom: 30px;
+	height: 45px;
+	width: 584px;
+	box-shadow: 10px;
+}
+#s{
+	margin-left: 43%;
+	margin-right: 10px;
+	width: 100;
+}
+#bottom{
+	width: 100.7%;
+	margin-top: 28%;
+	margin-bottom: -7%;
+	margin-left: -8px;
 }
